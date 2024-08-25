@@ -1,0 +1,2 @@
+Django==5.1
+transformers==4.44.2
