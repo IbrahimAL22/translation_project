@@ -12,6 +12,16 @@ The model was fine-tuned on a dataset specifically curated for translating Arabi
 
 The above screenshot shows the model in action, translating a sample sentence from Arabizi to English.
 
+
+## Links
+
+### Dataset
+The dataset used for fine-tuning can be found [here](https://github.com/IbrahimAL22/translation_project/blob/main/engToTounsi.csv).
+
+### Fine-Tuned Model
+The fine-tuned model repository can be accessed [here]([link_to_fine_tuned_model](https://huggingface.co/IbrahimAL24/TNtoEng-By-Ibrahim-V1)). *(Replace this with the actual link to your model)*
+
+
 ## How to Use
 
 1. Clone the repository:
