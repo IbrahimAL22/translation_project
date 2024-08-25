@@ -4,7 +4,7 @@ This project focuses on translating Arabizi (Tunisian dialect written in Latin s
 
 ## Project Overview
 
-The model was fine-tuned on a dataset specifically curated for translating Arabizi to English. This dataset contains 709 lines of text, with columns for Arabizi (`tounsi`) and the corresponding English translation (`english`).
+The model was fine-tuned on a dataset specifically curated for translating Arabizi to English. This dataset contains about 1300 lines of text, with columns for Arabizi (`tounsi`) and the corresponding English translation (`english`).
 
 ## Example Translation
 
