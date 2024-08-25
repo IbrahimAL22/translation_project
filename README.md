@@ -31,7 +31,7 @@ The fine-tuned model repository can be accessed [here](https://huggingface.co/Ib
    git clone https://github.com/IbrahimAL22/translation_project.git
 
 
-1. Enter to project directory and run Django server:
+2. Enter to project directory and run Django server:
    ```bash
    cd translation_project
    python manage.py runserver
