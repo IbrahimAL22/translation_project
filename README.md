@@ -16,7 +16,7 @@ The above screenshot shows the model in action, translating a sample sentence fr
 ## Links
 
 ### Dataset
-The dataset used for fine-tuning can be found [here](https://github.com/IbrahimAL22/translation_project/blob/main/engToTounsi.csv).
+The dataset used for fine-tuning can be found [here](https://huggingface.co/datasets/IbrahimAL24/TNtoEng-By-Ibrahim-V1-Dataset).
 
 ### Fine-Tuned Model
 The fine-tuned model repository can be accessed [here](https://huggingface.co/IbrahimAL24/TNtoEng-By-Ibrahim-V1). *(Replace this with the actual link to your model)*
